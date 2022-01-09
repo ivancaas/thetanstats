@@ -112,6 +112,9 @@ h1, h2 {
 .tobi-zoom__icon {
   display: none;
 }
+.tobi-zoom{
+ padding-bottom: 20px; 
+}
 
 .app__header {
   display: flex;
